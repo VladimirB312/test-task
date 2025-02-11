@@ -1,0 +1,17 @@
+.result {
+  display: flex;
+  gap: 100px;
+}
+
+.request-form__error {
+  display: none;
+  color: #DF582E;
+}
+
+.request-form__error_show {
+  display: inline;
+}
+
+.request-form__email_highlight-error {
+  outline: 2px solid #FF7449;
+}
