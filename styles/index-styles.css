@@ -1014,7 +1014,7 @@
 .form__email-field:focus,
 .form__brief-field:focus,
 .subscribe-form__email:focus {
-  box-shadow: 0px 0px 4px 0px rgba(41, 160, 228, 0.7);
+  box-shadow: 0 0 4px 0 rgba(41, 160, 228, 0.7);
   outline: 1px solid #3D50F9;
 }
 
@@ -1155,7 +1155,6 @@
 .subscribe-form__submit {
   transition: 0.3s ease;
 }
-
 
 .top-description__button:hover,
 .benefits__button:hover,
